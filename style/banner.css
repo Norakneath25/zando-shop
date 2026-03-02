@@ -1,0 +1,8 @@
+#banner-img {
+    height: 80vh !important;
+    background-image: url("../assets/image/banner.jpg");
+    background-size: contain;        /* ✅ shows full image, no cropping */
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
